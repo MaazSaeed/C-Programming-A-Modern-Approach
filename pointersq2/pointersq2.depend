@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611574404 source:d:\c codes\pointersq2\main.c
+	<stdio.h>
+	<stdlib.h>
+

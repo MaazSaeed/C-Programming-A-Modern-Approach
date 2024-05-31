@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1614430165 source:d:\c codes\alphabet wars\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+

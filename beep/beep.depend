@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1614540920 source:d:\c codes\beep\main.c
+	<stdio.h>
+	<stdlib.h>
+

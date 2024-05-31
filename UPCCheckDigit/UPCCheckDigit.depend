@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609256260 source:d:\c codes\upccheckdigit\main.c
+	<stdio.h>
+	<stdlib.h>
+

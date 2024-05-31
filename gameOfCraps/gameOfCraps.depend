@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611262921 source:d:\c codes\gameofcraps\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

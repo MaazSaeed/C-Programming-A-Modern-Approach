@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609264623 source:d:\c codes\eancheckdigit\main.c
+	<stdio.h>
+	<stdlib.h>
+

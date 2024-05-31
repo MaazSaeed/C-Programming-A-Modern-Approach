@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1612018402 source:d:\c codes\palindromes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

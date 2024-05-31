@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1613660758 source:d:\c codes\ch15ex4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"debug.h"
+
+1613660802 d:\c codes\ch15ex4\debug.h
+

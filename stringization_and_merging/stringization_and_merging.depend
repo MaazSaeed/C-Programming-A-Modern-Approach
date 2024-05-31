@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613576273 source:d:\c codes\stringization_and_merging\main.c
+	<stdio.h>
+	<stdlib.h>
+

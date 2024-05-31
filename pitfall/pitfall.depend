@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612630632 source:d:\c codes\pitfall\main.c
+	<stdio.h>
+	<stdlib.h>
+

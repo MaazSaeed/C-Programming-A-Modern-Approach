@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613357359 source:d:\c codes\arrays_of_strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

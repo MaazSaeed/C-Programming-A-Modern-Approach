@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1611852979 source:d:\c codes\reversalofarraywithptrs\main.c
+	<stdio.h>
+	<stdlib.h>
+

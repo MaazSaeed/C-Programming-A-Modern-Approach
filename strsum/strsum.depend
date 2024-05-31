@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1614351526 source:d:\c codes\strsum\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	<stdbool.h>
+

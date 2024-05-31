@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614944117 source:d:\c codes\rpnexpression\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

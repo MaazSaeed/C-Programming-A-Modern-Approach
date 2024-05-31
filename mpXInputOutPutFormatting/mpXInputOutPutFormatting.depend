@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609462121 source:d:\c codes\mpxinputoutputformatting\main.c
+	<stdio.h>
+	<stdlib.h>
+

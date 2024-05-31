@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610659101 source:d:\c codes\sqrrr\main.c
+	<stdio.h>
+	<stdlib.h>
+

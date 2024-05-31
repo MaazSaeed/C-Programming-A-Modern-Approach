@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613894907 source:d:\c codes\rowsumodd\main.c
+	<stdio.h>
+	<stdlib.h>
+

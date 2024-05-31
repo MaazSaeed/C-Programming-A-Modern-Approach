@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1613659537 source:d:\c codes\ch16\main.c
+	<stdio.h>
+	<stdlib.h>
+	"line.h"
+
+1613657771 d:\c codes\ch16\line.h
+
+1613656963 d:\c codes\ch16\word.h
+
+1613659537 source:d:\c codes\ch16\line.c
+	"line.h"
+

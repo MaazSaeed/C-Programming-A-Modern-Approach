@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611416965 source:d:\c codes\whysoslow\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+

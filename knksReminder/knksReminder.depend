@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613075495 source:d:\c codes\knksreminder\main.c
+	<stdio.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613900775 source:d:\c codes\sum_seriess\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+

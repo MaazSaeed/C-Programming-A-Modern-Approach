@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609454208 source:d:\c codes\alphabettonumerals\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

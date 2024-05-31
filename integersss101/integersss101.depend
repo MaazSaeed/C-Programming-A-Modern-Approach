@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1609448175 source:d:\c codes\integersss101\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613304011 source:d:\c codes\commaoprtr\main.c
+	<stdio.h>
+	<stdlib.h>
+

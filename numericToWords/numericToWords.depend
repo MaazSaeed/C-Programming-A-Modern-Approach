@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609282128 source:d:\c codes\numerictowords\main.c
+	<stdio.h>
+	<stdlib.h>
+

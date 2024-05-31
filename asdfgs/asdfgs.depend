@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611330623 source:d:\c codes\asdfgs\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613358376 source:d:\c codes\strcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

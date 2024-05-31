@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610889893 source:d:\c codes\randomwalk\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

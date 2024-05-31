@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611328925 source:d:\c codes\sevensegmentsdisplaytry001\main.c
+	<stdbool.h>
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+

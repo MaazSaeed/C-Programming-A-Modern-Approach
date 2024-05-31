@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614435763 source:d:\c codes\next bigger number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

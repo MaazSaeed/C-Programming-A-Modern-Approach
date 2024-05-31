@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613760873 source:d:\c codes\sideeffects\main.c
+	<stdio.h>
+	<stdlib.h>
+

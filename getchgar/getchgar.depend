@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1611335902 source:d:\c codes\getchgar\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
